@@ -1,2 +1,1 @@
-# src
-src of Discord bots
+Boit ich finde ees toll dass ihr auf meineseite gefunden habt!
